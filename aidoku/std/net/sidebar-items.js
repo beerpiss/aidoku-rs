@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":[["HttpMethod",""]],"fn":[["set_rate_limit","Sets the number of requests allowed within a time period."],["set_rate_limit_period","Sets the rate limiting duration."]],"struct":[["Request","A type that makes a HTTP request."]]};

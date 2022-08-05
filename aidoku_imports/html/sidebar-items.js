@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["escape_html_entities","HTML escape an input string."],["unescape_html_entities","Un-escape an HTML escaped string."]],"struct":[["Node","Type which represents a HTML node, which can be a group of elements, an element, or the entire HTML document."]]};

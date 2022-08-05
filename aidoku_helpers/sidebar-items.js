@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":[["cfemail","Handles Cloudflare email protection."],["node",""],["substring","Substring utility functions."],["uri","Module for encoding URIs."]]};

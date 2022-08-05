@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["aidoku_imports"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/iter/traits/iterator/trait.Iterator.html\" title=\"trait core::iter::traits::iterator::Iterator\">Iterator</a> for <a class=\"struct\" href=\"aidoku_imports/struct.ArrayRef.html\" title=\"struct aidoku_imports::ArrayRef\">ArrayRef</a>","synthetic":false,"types":["aidoku_imports::std::ArrayRef"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

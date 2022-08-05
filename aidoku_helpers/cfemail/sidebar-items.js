@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["decode_cfemail","Replaces all `[email protected]` elements with their contents in-place."],["parse_cfemail","Parses `data-cfemail` attribute and returns the email address."]]};

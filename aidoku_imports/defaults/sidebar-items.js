@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["defaults_get","Returns the ValueRef associated with the specified key."],["defaults_set","Sets the value of the specified key."]]};

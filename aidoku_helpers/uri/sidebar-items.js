@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":[["encode_uri","Percent-encode an entire URI string that is valid UTF-8."],["encode_uri_component","Percent-encode an entire URI string that is valid UTF-8."],["internal_encode_uri","Percent-encode an entire URI string that is valid UTF-8."]],"struct":[["QueryParameters","Alternating, decoded query names and values."]]};
